@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\WhileVsDoWhile\WhileVsDoWhile\obj\Debug\WhileVsDoWhile.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\WhileVsDoWhile\WhileVsDoWhile\obj\Debug\WhileVsDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\WhileVsDoWhile\WhileVsDoWhile\bin\Debug\WhileVsDoWhile.exe.config
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\WhileVsDoWhile\WhileVsDoWhile\bin\Debug\WhileVsDoWhile.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\WhileVsDoWhile\WhileVsDoWhile\bin\Debug\WhileVsDoWhile.pdb
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\WhileVsDoWhile\WhileVsDoWhile\obj\Debug\WhileVsDoWhile.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\WhileVsDoWhile\WhileVsDoWhile\obj\Debug\WhileVsDoWhile.pdb
